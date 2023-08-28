@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="158.475" viewBox="0 0 133 158.475">
+  <g id="Group_16298" data-name="Group 16298" transform="translate(0.268 0.224)">
+    <g id="Path_9465" data-name="Path 9465" transform="translate(85.386 158.251) rotate(180)" fill="#575756">
+      <path d="M 35.48576736450195 31.81170082092285 L 2.584770917892456 31.81170082092285 L 19.03526496887207 3.023340463638306 L 35.48576736450195 31.81170082092285 Z" stroke="none"/>
+      <path d="M 19.03526496887207 6.046697616577148 L 5.169536590576172 30.31170082092285 L 32.90098190307617 30.31170082092285 L 19.03526496887207 6.046697616577148 M 19.03526496887207 0 L 38.07052612304688 33.31170272827148 L -3.814697265625e-06 33.31170272827148 L 19.03526496887207 0 Z" stroke="none" fill="#575756"/>
+    </g>
+    <g id="Ellipse_2432" data-name="Ellipse 2432" transform="translate(-0.268 -0.224)" fill="#fff" stroke="#575756" stroke-width="3">
+      <circle cx="66.5" cy="66.5" r="66.5" stroke="none"/>
+      <circle cx="66.5" cy="66.5" r="65" fill="none"/>
+    </g>
+    <text id="_4" data-name="4" transform="translate(62.732 89.776)" fill="#575756" font-size="69" font-family="Cairo-SemiBold, Cairo" font-weight="600"><tspan x="-19" y="0">4</tspan></text>
+  </g>
+</svg>
